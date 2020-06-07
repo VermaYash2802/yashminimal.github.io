@@ -9,7 +9,7 @@ title: Yash Verma
 email: yash.minimal@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.yashminimal.in" # the base hostname & protocol for your site, e.g. http://example.com
+url: "yashminimal.in" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  VermaYash2802
 facebook_username: yash2802
 linkedin_username: yash2802
