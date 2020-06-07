@@ -1,1 +1,2 @@
-# yash.minimal.github.io
+# yashminimal.github.io
+Repo for my Personal Website
